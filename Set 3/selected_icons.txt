@@ -1,0 +1,70 @@
+The following icons where at 10/11/2018, 5:03:09 PM selected: 
+ Filter plus
+ arrow_back_dark_ico_vector_512x512
+ arrow_down_dark_ico_vector_512x512
+ arrow_down_small_ico_vector_512x512
+ arrow_front_dark_ico_vector_512x512
+ arrow_left_small_dark_ico_vector_512x512
+ arrow_right_small_dark_ico_vector_512x512
+ arrow_up_dark_ico_vector_512x512
+ arrow_up_small_dark_ico_vector_512x512
+ audio_off_dark_ico_vector_512x512
+ black_share_ico_vector_512x512
+ bookmark_dark_ico_vector_512x512
+ canvas-dark, canvas, tablet
+ chart_dark_ico_vector_512x512
+ check_circle_dark_ico_vector_512x512
+ circle_gray_close_ico_vector_512x512
+ circle_gray_gallery_ico_vector_512x512
+ circle_gray_graphic_ico_vector_512x512
+ circle_gray_information_ico_vector_512x512
+ circle_gray_loading_ico_vector_512x512
+ circle_gray_pause_ico_vector_512x512
+ circle_gray_play_ico_vector_512x512
+ circle_gray_plus_ico_vector_512x512
+ circle_gray_speaker_ico_vector_512x512
+ circle-gray-film, circle, gray, film, tablet
+ clock_dark_ico_vector_512x512
+ close_circle_dark_ico_vector_512x512
+ close_dark_ico_vector_512x512
+ content_dark_ico_vector_512x512
+ droppoint_dark_ico_vector_512x512
+ email_dark_ico_vector_512x512
+ exit-dark, exit, tablet
+ expand_dark_ico_vector_512x512
+ external_link_dark_ico_vector_512x512
+ filter_dark_ico_vector_512x512
+ font_dark_ico_vector_512x512
+ gallery_dark_ico_vector_512x512
+ glasses-dark, glasses, tablet
+ hamburger_small_dark_ico_vector_512x512
+ hamburger-dark, hamburger, menu, tablet
+ help_dark_ico_vector_512x512
+ hide_dark_ico_vector_512x512
+ home_dark_ico_vector_512x512
+ info_dark_ico_vector_512x512
+ listen_dark_ico_vector_512x512
+ listen_off_dark_ico_vector_512x512
+ login-dark, login, tablet
+ login-thin, login, enter, tablet
+ logout-thin, logout, exit, tablet
+ map-dark, map, location, tablet
+ maximize_circle_dark_ico_vector_512x512
+ maximize_dark_ico_vector_512x512
+ minimize_circle_dark_ico_vector_512x512
+ minus_dark_ico_vector_512x512
+ next-page-dark, next, page, tablet
+ paint-dark, paint, color, tablet
+ pause_dark_ico_vector_512x512
+ play_dark_ico_vector_512x512
+ play-filled-dark
+ press-dark, press, newspaper, tablet
+ profile_dark_ico_vector_512x512
+ read-dark, read, news, newspaper, tablet
+ rotate_device_dark_ico_vector_512x512
+ search_dark_ico_vector_512x512
+ share_dark_ico_vector_512x512
+ slider_dark__ico_vector_512x512
+ view_dark_ico_vector_512x512
+ zoom_minus_dark_ico_vector_512x512
+ zoom_plus_dark_ico_vector_512x512
